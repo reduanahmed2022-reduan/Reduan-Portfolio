@@ -1,36 +1,129 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Reduan Ahmed | Developer Portfolio
 
-## Getting Started
+A modern, responsive personal portfolio website showcasing my skills, education, projects, and journey as a Junior Full Stack Web Developer.
 
-First, run the development server:
+## 🌐 Live Website
+
+[Visit My Portfolio](https://my-portfolio-reduan1.vercel.app/)
+
+## 👨‍💻 About Me
+
+Hello! I'm **Reduan Ahmed**, a Junior Full Stack Web Developer from Sylhet, Bangladesh.
+
+I enjoy building modern, responsive, and user-friendly web applications. I am continuously learning new technologies and improving my development skills through practical projects.
+
+My current focus is on JavaScript, React, Next.js, and full-stack web development.
+
+## 🚀 Technologies Used
+
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Git & GitHub
+
+## ✨ Features
+
+- Modern and responsive portfolio design
+- Professional introduction and profile section
+- About Me section
+- Skills and technology overview
+- Education information
+- Featured project showcase
+- Individual project details pages
+- Live project and GitHub repository links
+- Contact information and social links
+- Resume viewing option
+- Responsive navigation for mobile and desktop
+
+## 💼 Featured Projects
+
+### 1. BookNook
+An online library application for discovering, adding, borrowing, and returning books.
+
+- Live Website: https://book-nook-reduan.vercel.app/
+- GitHub: https://github.com/reduanahmed2022-reduan/Book-Nook
+
+### 2. BazarDor
+A web application focused on presenting market-price information through an organized interface.
+
+- Live Website: https://bazardorweb.vercel.app
+- GitHub: https://github.com/reduanahmed2022-reduan/Bazardorweb
+
+### 3. Fit-Log
+A fitness tracking application designed to organize workout activities and monitor fitness progress.
+
+- Live Website: https://fit-log-reduan1.vercel.app/
+- GitHub: https://github.com/reduanahmed2022-reduan/Fit-log
+
+## 🎓 Education
+
+**Diploma in Computer Science**  
+Sylhet Polytechnic Institute  
+2020 – 2024
+
+## ⚙️ Run Locally
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd reduan-portfolio
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📁 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+src/
+├── app/
+│   ├── projects/
+│   ├── globals.css
+│   ├── layout.js
+│   └── page.js
+├── components/
+└── data/
+    └── projects.js
 
-## Learn More
+public/
+├── projects/
+├── profile.jpg
+└── resume.pdf
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact Me
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Email: reduanahmed2022@gmail.com
+- Phone: +8801838531892
+- GitHub: https://github.com/reduanahmed2022-reduan
+- LinkedIn: https://www.linkedin.com/in/Reduan-Ahmed-BD/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📄 License
 
-## Deploy on Vercel
+This project is created for personal portfolio and learning purposes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Designed & Developed by Reduan Ahmed**
